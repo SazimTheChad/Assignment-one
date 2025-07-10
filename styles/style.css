@@ -1,0 +1,208 @@
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  
+.raleway-font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+}
+}
+.btn-color{
+  background-color: #4E47FF;
+  border: none;
+  border-radius: 4px;
+  color: #FFFFFF;
+  height: 30px;
+  width: 80px;
+  margin-right: 500px;
+  margin-top: 25px;
+
+}
+.logo-color{
+  color:#4E47FF;
+  margin-left: 500px;
+  margin-top: 25px;
+  /* font-weight: bold; */
+}
+.navigation nav{
+  display: flex;
+  justify-content: space-between;
+}
+.btn-two{
+  background-color: #4E47FF;
+  color: #FFFFFF;
+  border-radius: 5px;
+  border: none;
+  height: 30px;
+  width: 120px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  
+}
+.headline-design{
+  text-align: center;
+}
+.headline{
+  font-weight: bolder;
+  margin: 0px;
+  color: #252432;
+  font-size: 60px;
+}
+.background-img-one{
+  background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
+}
+.action{
+  display: flex;
+  justify-content:space-between;
+  margin: 60px 500px 40px 500px;
+
+}
+/* .action ,.box-two{
+  border-radius: 50px;
+
+} */
+.three-button{
+  background-color: #4E47FF;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 6px;
+  height: 30px;
+  width: 160px;
+  margin-top: 20px;
+}
+.paragraph{
+  margin: 0px;
+  color: #252432;
+}
+.headline-two{
+  color: #252432;
+  font-size: 48px;
+} 
+/* .box-two{
+  border-radius: 50%;
+} */
+.violet-background{
+  background-color:#e1e0fa;
+  margin: 70px 500px 70px 500px;
+  text-align: center;
+  padding: 20px ;
+  border-radius: 15px;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+}
+.mother{
+  display: flex;
+  /* justify-content: space-between; */
+  justify-content: space-around;
+  margin: none;
+  
+}
+.user-data{
+  color: #4E47FF;
+  font-weight: 1000px;
+  font-size: 90px;
+}
+.centre{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 500px;
+
+}
+.majhe{
+  text-align: center;
+}
+.thik{
+  border: 3px solid #FFFFFF;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 4px 6px 5px rgb(73, 72, 72);
+  border-radius: 15px;
+}
+.beautiful{
+  text-align: center;
+  margin-top: 90px;
+  background-color: #FFFFFF;
+  border: 1px solid #c8c8ee;
+  margin: 50px 500px 30px 500px;
+  padding: 15px 90px 100x 140px;
+  box-shadow: 5px 4px 5px rgb(17, 17, 17);
+}
+.pick{
+  border: none;
+  background-color: #4E47FF;
+  border-radius: 10px;
+  height: 60px;
+  width: 200px;
+  margin-bottom: 30px;
+  color: #FFFFFF;
+}
+.img-short{
+  margin-bottom: 71px;
+  margin-left: 80px;
+  margin-right:150px;
+}
+.focus{
+  margin-top: 71px;
+}
+.father{
+  display: flex;
+  justify-content: space-around;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 90px;
+}
+.bold{
+  margin: 0px;
+  font-size: 60px;
+  text-align: center;
+  font-weight: 900px;
+  /* margin-top: 60px; */
+}
+.Wow{
+  background-color: #4E47FF;
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+  width: 200px;
+  color: #FFFFFF;
+}
+.input{
+  width: 200px;
+  color: #FFFFFF;
+  border-radius: 4px;
+  height: 30px;
+}
+.sokal{
+  background-color:#FFFFFF;
+  text-align: center;
+  margin-top: 50px;
+  border-color: #e1e0fa;
+  box-shadow: 4px 5px 6px black;
+  padding-top: 5px;
+  padding-bottom: 40px;
+}
+.sokal li{
+  list-style: none;
+  color: #8987A1;
+}
+.sokal ul{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 700px;
+  margin-right: 700px;
+}
+.bigger{
+  font-size: 60px;
+  font-weight: 900px;
+  color: #4E47FF;
+  margin-top: 70px;
+}
+.button-hi:hover{
+  cursor: pointer;
+  background-color:yellow ;
+}
