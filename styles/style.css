@@ -21,6 +21,7 @@
   width: 80px;
   margin-right: 500px;
   margin-top: 25px;
+  transition: 1s;
 
 }
 .logo-color{
@@ -42,6 +43,7 @@
   width: 120px;
   margin-top: 20px;
   margin-bottom: 100px;
+  transition: 1s;
   
 }
 .headline-design{
@@ -74,6 +76,7 @@
   height: 30px;
   width: 160px;
   margin-top: 20px;
+  transition: 1s;
 }
 .paragraph{
   margin: 0px;
@@ -140,6 +143,7 @@
   width: 200px;
   margin-bottom: 30px;
   color: #FFFFFF;
+  transition: 1s;
 }
 .img-short{
   margin-bottom: 71px;
@@ -170,6 +174,7 @@
   height: 40px;
   width: 200px;
   color: #FFFFFF;
+  transition: 1s;
 }
 .input{
   width: 200px;
@@ -204,5 +209,10 @@
 }
 .button-hi:hover{
   cursor: pointer;
-  background-color:yellow ;
+  background-color:rgb(192, 192, 185);
+  /* transition: 1s; */
+}
+.button-hi:active{
+  background-color: rgb(247, 142, 5);
+  /* transition: 3s; */
 }
