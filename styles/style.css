@@ -95,6 +95,9 @@
   text-align: center;
   padding: 20px ;
   border-radius: 15px;
+  height: 350px;
+  width: 980px;
+  max-width: 100%;
   /* display: flex; */
   /* flex-wrap: wrap; */
 }
@@ -107,8 +110,9 @@
 }
 .user-data{
   color: #4E47FF;
-  font-weight: 1000px;
+  font-weight: 1300px;
   font-size: 90px;
+  
 }
 .centre{
   display: flex;
@@ -215,4 +219,15 @@
 .button-hi:active{
   background-color: rgb(247, 142, 5);
   /* transition: 3s; */
+}
+.user-cmt{
+  /* margin: 0px; */
+  margin-top: 0px;
+  margin-bottom: 70px;
+  font-size: 20px;
+  color: #8987A1;
+  /* padding-top: 0px; */
+}
+.headline-boss{
+  font-size: 40px;
 }
