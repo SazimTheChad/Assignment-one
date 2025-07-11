@@ -222,12 +222,16 @@
 }
 .user-cmt{
   /* margin: 0px; */
-  margin-top: 0px;
-  margin-bottom: 70px;
+  /* margin-top: 0px; */
+  /* margin-bottom: 1200px; */
   font-size: 20px;
   color: #8987A1;
-  /* padding-top: 0px; */
+  /* padding: 0px 5px 40px 5px; */
 }
 .headline-boss{
   font-size: 40px;
+}
+.one{
+  margin-bottom: 200px;
+
 }
